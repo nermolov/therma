@@ -7,3 +7,4 @@ radio thermostat client
 * error handling
 * discovery + non-hardcoded device
 * handle odd and end todos
+* split api calls into separate class (for api expandability)
